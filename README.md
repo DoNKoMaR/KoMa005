@@ -38,8 +38,8 @@
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
 > pkg install yarn
-> git clone https://github.com/DoNKoMaR/KoMaR
-> cd KoMaR
+> git clone https://github.com/DoNKoMaR/KoMa005
+> cd KoMa005
 > npm install
 > yarn install 
 > npm install
@@ -93,7 +93,7 @@
 ```
 -----
   
-### `—◉ 📝 𝐍𝐎𝐓𝐀 📝`
+### `—◉ 📝 ☣ⒹⓞⓃ ⓀⓞⓂⓐⓇ☣ 📝`
 ```bash
 🔸𝐄𝐒𝐓𝐄 𝐑𝐄𝐏𝐎𝐒𝐈𝐓𝐎𝐑𝐈𝐎 𝐏𝐮𝐁𝐋𝐈𝐂𝐀 𝐋𝐀 𝐕𝐄𝐑𝐒𝐈𝐎́𝐍 𝐀𝐂𝐓𝐔𝐀𝐋|𝐎𝐅𝐈𝐂𝐈𝐀𝐋 𝐃𝐄 𝐓𝐡𝐄 𝐋𝐎𝐋𝐈𝐁𝐎𝐓-𝐌𝐃
 🔸𝐄𝐒 𝐏𝐎𝐒𝐈𝐁𝐋𝐄 𝐐𝐔𝐄 𝐄𝐋 𝐁𝐎𝐓 𝐓𝐄𝐍𝐆𝐀 𝐀𝐋𝐆𝐔𝐍𝐀𝐒 𝐅𝐀𝐋𝐋𝐀𝐒, 𝐒𝐄 𝐈𝐑𝐀𝐍 𝐒𝐎𝐋𝐔𝐂𝐈𝐎𝐍𝐀𝐍𝐃𝐎 𝐂𝐎𝐍𝐅𝐎𝐑𝐌𝐄 𝐒𝐄 𝐕𝐀𝐘𝐀𝐍 𝐃𝐄𝐓𝐄𝐂𝐓𝐀𝐍𝐃𝐎
@@ -104,17 +104,17 @@
 🔸𝐓𝐡𝐞 𝐋𝐨𝐥𝐢𝐁𝐨𝐭-𝐌𝐃, 𝐍𝐎 𝐒𝐄 𝐇𝐀𝐂𝐄 𝐑𝐄𝐒𝐏𝐎𝐍𝐒𝐀𝐁𝐋𝐄 𝐃𝐄𝐋 𝐔𝐒𝐎, 𝐍𝐔𝐌𝐄𝐑𝐎𝐒, 𝐏𝐑𝐈𝐕𝐀𝐂𝐈𝐃𝐀𝐃 𝐘 𝐂𝐎𝐍𝐓𝐄𝐍𝐈𝐃𝐎 𝐌𝐀𝐍𝐃𝐀𝐃𝐎, 𝐔𝐒𝐀𝐃𝐎 𝐎 𝐆𝐄𝐒𝐓𝐈𝐎𝐍𝐀𝐃𝐎 𝐏𝐎𝐑 𝐔𝐒𝐓𝐄𝐃𝐄𝐒 𝐎 𝐄𝐋 𝐁𝐎𝐓.
 ```
 ----
-## `𝐄𝐃𝐈𝐓𝐎𝐑 𝐘 𝐏𝐎𝐑𝐏𝐈𝐄𝐓𝐀𝐑𝐈𝐎 𝐃𝐄𝐋 𝐁𝐎𝐓` 
-<a href="https://github.com/elrebelde21"><img src="https://github.com/elrebelde21.png" width="300" height="300" alt="elrebelde21"/></a>
+## `ВЛАДЕЛЕЦ БОТА  И РЕДАКТОР` 
+<a href="https://github.com/DoNKoMaR"><img src="https://github.com/DoNKoMaR.png" width="300" height="300" alt="DoNKoMaR"/></a>
 
-`The LoliBot-MD _ Byelrebelde`
+`☣ⒹⓞⓃ ⓀⓞⓂⓐⓇ☣`
 
 ----
 
 ### 🌟 𝐀𝐠𝐫𝐚𝐜𝐢𝐦𝐢𝐞𝐧𝐭𝐨
  
-[![GataNina-Li](https://github.com/GataNina-Li.png?size=100)](https://github.com/GataNina-Li) 
+[![DoNKoMaR](https://github.com/DoNKoMaR.png?size=100)](https://github.com/DoNKoMaR) 
 
 ### 🌟 𝐀𝐠𝐫𝐚𝐜𝐢𝐦𝐢𝐞𝐧𝐭𝐨
  
-[![TheShadowBrokers1](https://github.com/BrunoSobrino.png?size=100)](https://github.com/BrunoSobrino) 
+[![DoNKoMaR](https://github.com/DoNKoMaR.png?size=100)](https://github.com/https:/DoNKoMaR) 
