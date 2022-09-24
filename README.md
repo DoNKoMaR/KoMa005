@@ -6,10 +6,10 @@
 <a href="http://wa.me/79773452127" target="blank"><img src="https://img.shields.io/badge/creador-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
 
-[![blog](https://img.shields.io/badge/Группа Продажа бота дёшево-25D366?style=for-the-badge&logo=whatsapp&logoColor=white 
-)](https://chat.whatsapp.com/FZ9LENww6Co9ESkyF3QgVz)  <a href="https://chat.whatsapp.com/FZ9LENww6Co9ESkyF3QgVz"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/1200px-WhatsApp_logo-color-vertical.svg.png" height="29px"></a>
+[![blog](https://img.shields.io/badge/GrupoПродажа бота дёшево-25D366?style=for-the-badge&logo=whatsapp&logoColor=white 
+)](https://chat.whatsapp.com/FZ9LENww6Co9ESkyF3QgVz) <a href="https://chat.whatsapp.com/FZ9LENww6Co9ESkyF3QgVz"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/1200px-WhatsApp_logo-color-vertical.svg.png" height="29px"></a>
 
-[![blog](https://img.shields.io/badge/Группа 2-Тест Ботов-25D366?style=for-the-badge&logo=whatsapp&logoColor=white 
+[![blog](https://img.shields.io/badge/Grupo2-Тест Ботов-25D366?style=for-the-badge&logo=whatsapp&logoColor=white 
 )](https://chat.whatsapp.com/LTLuGNRI30VHffhgfZqinq) <a href="https://chat.whatsapp.com/LTLuGNRI30VHffhgfZqinq"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/1200px-WhatsApp_logo-color-vertical.svg.png" height="29px"></a>
 
 -----
