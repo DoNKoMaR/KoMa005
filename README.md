@@ -117,10 +117,10 @@
 
 ----
 
-### 🌟 𝐀𝐠𝐫𝐚𝐜𝐢𝐦𝐢𝐞𝐧𝐭𝐨
+### 🌟 Благодарность
  
 [![DoNKoMaR](https://github.com/DoNKoMaR.png?size=100)](https://github.com/DoNKoMaR) 
 
-### 🌟 𝐀𝐠𝐫𝐚𝐜𝐢𝐦𝐢𝐞𝐧𝐭𝐨
+### 🌟 Благодарность
  
 [![DoNKoMaR](https://github.com/DoNKoMaR.png?size=100)](https://github.com/https:/DoNKoMaR) 
